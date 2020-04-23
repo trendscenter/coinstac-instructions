@@ -105,7 +105,7 @@ unverified developer. This warning will only be issued once every time
 you open a new version of COINSTAC. We have plans to remove it in the
 future.
 
-<img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image5.png" width="550" height="268"/>
+<img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image5.png" width="550" height="280"/>
 
 You will have to do the following:
 
@@ -124,6 +124,7 @@ You will have to do the following:
     -   If that does not work, do the following:
 
         -   Click on the lock in the lower left-hand corner.
+
             <img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image8.png" width="252" height="35"/> 
 
         -   Enter your password.

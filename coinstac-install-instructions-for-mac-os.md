@@ -53,8 +53,8 @@ by using one of the methods below.
 #### Method \#1
 
 You can verify that Docker is running by hovering over the Docker icon
-![](./install-mac/media/image1.png){width="0.2864588801399825in"
-height="0.2864588801399825in"} on your taskbar. You should see a message
+<img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image1.png" width="20"
+height="20"/> on your taskbar. You should see a message
 that Docker is running.
 
 #### Method \#2

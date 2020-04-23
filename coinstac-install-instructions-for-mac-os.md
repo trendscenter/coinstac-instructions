@@ -109,9 +109,7 @@ future.
 
 You will have to do the following:
 
--   Click on the Apple icon 
-<img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image6.png" width="20" height="20"/> 
-in the top-left corner of your screen
+-   Click on the Apple icon <img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image6.png" width="20" height="20"/> in the top-left corner of your screen
 
 -   Click System Preferences.
 
@@ -126,7 +124,7 @@ in the top-left corner of your screen
     -   If that does not work, do the following:
 
         -   Click on the lock in the lower left-hand corner.
-        <img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image8.png" width="252" height="35"/> 
+            <img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image8.png" width="252" height="35"/> 
 
         -   Enter your password.
 

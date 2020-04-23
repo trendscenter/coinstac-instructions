@@ -105,19 +105,20 @@ unverified developer. This warning will only be issued once every time
 you open a new version of COINSTAC. We have plans to remove it in the
 future.
 
-<img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image5.png" width="458" height="223"/>
+<img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image5.png" width="550" height="268"/>
 
 You will have to do the following:
 
 -   Click on the Apple icon 
-<img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image6.png" width="20" height="20"/> in the top-left corner of your screen
+<img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image6.png" width="20" height="20"/> 
+in the top-left corner of your screen
 
 -   Click System Preferences.
 
 -   Click on Security & Privacy.
 
 -   You will see a warning that coinstac was blocked because it was not from an identified developer.
-<img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image7.png" width="650" height="558"/> 
+    <img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image7.png" width="650" height="558"/> 
 
 
 -   Click on the Open Anyway button
@@ -125,7 +126,7 @@ You will have to do the following:
     -   If that does not work, do the following:
 
         -   Click on the lock in the lower left-hand corner.
-<img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image8.png" width="252" height="35"/> 
+        <img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image8.png" width="252" height="35"/> 
 
         -   Enter your password.
 

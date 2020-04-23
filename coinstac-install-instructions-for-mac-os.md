@@ -23,8 +23,8 @@ Verify System Requirements
 --------------------------
 
 Use a Mac with OS X 10.12 or higher. Before starting, please check that
-your computer meets the [[System
-Requirements]{.underline}](https://docs.docker.com/docker-for-mac/install/#what-to-know-before-you-install)
+your computer meets the [System
+Requirements](https://docs.docker.com/docker-for-mac/install/#what-to-know-before-you-install)
 for Docker.
 
 Install Docker
@@ -32,7 +32,7 @@ Install Docker
 
 Install Docker from the link below.
 
-[[https://store.docker.com/editions/community/docker-ce-desktop-mac]{.underline}](https://store.docker.com/editions/community/docker-ce-desktop-mac)
+[https://store.docker.com/editions/community/docker-ce-desktop-mac](https://store.docker.com/editions/community/docker-ce-desktop-mac)
 
 ### Verify Installation
 
@@ -74,14 +74,10 @@ If you see an error message, then you have to start Docker.
 To run Docker:
 
 -   Click on the Launchpad
-    ![](./install-mac/media/image2.png){width="0.29069772528433946in"
-    height="0.29069772528433946in"} in your taskbar at the bottom of the
-    screen.
+    <img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image2.png" width="20" height="20"/> in your taskbar at the bottom of the screen.
 
 -   Find Docker
-    ![](./install-mac/media/image3.png){width="0.4870308398950131in"
-    height="0.4870308398950131in"}in your list of applications and click
-    on it
+    <img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image3.png" width="20" height="20"/> in your list of applications and click on it.
 
 Download and Run COINSTAC Application
 -------------------------------------
@@ -92,7 +88,7 @@ To download the COINSTAC application, do the following:
 
 -   Go to this page and download the latest release:
 
-<https://github.com/MRN-Code/coinstac/releases/>
+    <https://github.com/MRN-Code/coinstac/releases/>
 
 -   Download the file named **coinstac-darwin-x64.zip**.
 
@@ -101,58 +97,44 @@ To download the COINSTAC application, do the following:
 
 ### Give Permission to Run Application
 
-After extraction, open the extracted folder and double click on the file
-named ![](./install-mac/media/image4.png){width="0.8195592738407699in"
-height="0.21606627296587927in"}
+After extraction, open the extracted folder and double click on the file named
+<img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image4.png" width="80" height="20"/>
 
 You will be prompted with a warning that says this software is from an
 unverified developer. This warning will only be issued once every time
 you open a new version of COINSTAC. We have plans to remove it in the
 future.
 
-![](./install-mac/media/image5.png){width="4.583333333333333in"
-height="2.2291666666666665in"}
+<img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image5.png" width="458" height="223"/>
 
 You will have to do the following:
 
--   Click on the Apple icon ![A close up of a logo Description
-    > automatically
-    > generated](./install-mac/media/image6.png){width="0.20833333333333334in"
-    > height="0.20833333333333334in"} in the top-left corner of your
-    > screen
+-   Click on the Apple icon 
+<img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image6.png" width="20" height="20"/> in the top-left corner of your screen
 
 -   Click System Preferences.
 
 -   Click on Security & Privacy.
 
--   You will see a warning that coinstac was blocked because it was not
-    > from an identified developer.
+-   You will see a warning that coinstac was blocked because it was not from an identified developer.
+<img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image7.png" width="650" height="558"/> 
 
-> ![A screenshot of a social media post Description automatically
-> generated](./install-mac/media/image7.png){width="6.5in"
-> height="5.5784722222222225in"}
 
 -   Click on the Open Anyway button
 
     -   If that does not work, do the following:
 
         -   Click on the lock in the lower left-hand corner.
+<img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image8.png" width="252" height="35"/> 
 
-> ![](./install-mac/media/image8.png){width="2.5156255468066493in"
-> height="0.35238298337707785in"}
+        -   Enter your password.
 
--   Enter your password.
+        -   Click on the Open Anyway button
 
--   Click on the Open Anyway button
-
-```{=html}
-<!-- -->
-```
--   Close this window.
+        -   Close this window.
 
 ### Run Application
 
 Next, go back to the folder where you extracted COINSTAC and double
 click on the
-![](./install-mac/media/image4.png){width="0.8195592738407699in"
-height="0.21606627296587927in"} file again.
+<img src="https://github.com/trendscenter/coinstac-instructions/blob/markdown/install-mac/media/image4.png" width="82" height="22"/>  file again.

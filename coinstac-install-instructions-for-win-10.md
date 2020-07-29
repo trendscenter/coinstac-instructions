@@ -24,7 +24,7 @@ Verify System Requirements
 --------------------------
 
 Use a Windows 10 Professional 64-bit computer that has at least 8 GB of
-memory.
+memory. As of this writing, Windows 10 Home edition will not work.
 
 Install Docker
 --------------

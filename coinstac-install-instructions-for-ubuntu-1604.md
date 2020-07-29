@@ -28,7 +28,7 @@ The following steps should be taken, explained in more detail below:
 Verify System Requirements
 --------------------------
 
-Use an Ubuntu 16.04 computer that has at least 8 GB of memory.
+We recommend Ubuntu 16.04+ or Debian equivalent operating system with at least 8 GB of memory.
 
 [https://docs.docker.com/install/linux/docker-ce/ubuntu/\#prerequisites](https://docs.docker.com/install/linux/docker-ce/ubuntu/#prerequisites)
 
@@ -38,6 +38,27 @@ Install Docker
 Install Docker using the instructions in the link below.
 
 [https://docs.docker.com/install/linux/docker-ce/ubuntu/](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
+
+### Configure Docker Usage
+
+Follow the below instructions taken from [here](https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user) to run Docker as a non-root user. 
+
+Create the `docker` group
+
+> sudo groupadd docker
+
+Add your user to the `docker` group
+
+> sudo usermod -aG docker $USER
+
+Run this command to activate changes. If it does not work, log out and log back in.
+
+> newgrp docker
+
+Verify that you can run `docker` commands without `sudo`
+
+> docker run hello-world
+
 
 ### Verify Installation
 
@@ -63,6 +84,12 @@ To run Docker, type the following into a terminal window:
 
 > sudo systemctl start docker
 
+### Enabling Docker at startup
+
+To run Docker at system startup, type the following into a terminal window:
+
+> sudo systemctl enable docker
+
 Download and Run COINSTAC Application
 -------------------------------------
 
@@ -78,25 +105,6 @@ latest release:
 -   After the download is complete, extract the zip file to a folder on
     your computer.
 
-### Configure Docker Usage
-
-Follow the below instructions taken from [here](https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user) to run Docker as a non-root user. 
-
-Create the `docker` group
-
-> sudo groupadd docker
-
-Add your user to the `docker` group
-
-> sudo usermod -aG docker $USER
-
-Run this command to activate changes. If it does not work, log out and log back in.
-
-> newgrp docker
-
-Verify that you can run `docker` commands without `sudo`
-
-> docker run hello-world
 
 ### Run Application
 

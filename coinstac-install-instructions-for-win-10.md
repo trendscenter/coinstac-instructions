@@ -29,10 +29,24 @@ memory. As of this writing, Windows 10 Home edition will not work.
 Install Docker
 --------------
 
+### Installation
+
 Log into an account with Administrator privileges and install Docker
-Community Edition for Windows from this link:
+Community Edition for Windows using one of the below methods.
+
+#### Standard Installation
+
+Install Docker using these instructions:
 
 [https://store.docker.com/editions/community/docker-ce-desktop-windows](https://store.docker.com/editions/community/docker-ce-desktop-windows)
+
+#### Using WSL 2 Backend (alternative)
+
+Alternatively, you can install Docker using the WSL 2 backend by following these instructions:
+
+[https://docs.docker.com/docker-for-windows/wsl/](https://docs.docker.com/docker-for-windows/wsl/)
+
+Note that this may give you a better experience with Docker, but it has not been tested with COINSTAC yet.
 
 ### Verify Installation
 
